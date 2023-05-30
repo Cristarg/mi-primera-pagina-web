@@ -36,6 +36,10 @@ p{
     
 }
 
+.greeting {
+    text-align: center;
+    }
+
 
 container-nav {
     display: flex;
